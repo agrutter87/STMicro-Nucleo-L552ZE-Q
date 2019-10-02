@@ -1,5 +1,8 @@
 # STMicro-Nucleo-L552ZE-Q
  
+Day 2, 10/2/2019:
+Since the last update, I've been periodically checking to see if the CubeIDE has an update that shows this part being supported. Today was one of those days, and I noticed it downloaded an update. Unfortunately, it is not yet supported by the CubeIDE project creator, but it has moved to "Active" production status. If I search by just the chip it shows the chip as "Evaluation" status. My guess is the software isn't ready on the framework scale yet. I'll check back after a while.
+
 Day 1, 7/22/2019:
 I received a board which was brought into work for a demo for a customer. 
 After the demo was completed, I received the board to bring home or shelf.
